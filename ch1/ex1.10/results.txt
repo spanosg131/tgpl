@@ -1,0 +1,4 @@
+0.02s    1256 http://www.example.com
+0.18s   11071 http://golang.org
+1.18s  108052 https://www.alexa.com/topsites
+1.18s elapsed
